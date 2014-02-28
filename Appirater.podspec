@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name                  = 'Appirater'
   s.version               = '2.0.2'
-  s.ios.deployment_target = '5.0'
+  s.ios.deployment_target = '7.0'
   s.summary               = "A utility that reminds your iPhone app's users to review the app."
   s.homepage              = 'http://arashpayan.com/blog/2009/09/07/presenting-appirater/'
   s.author                = { 'Arash Payan' => 'arash.payan@gmail.com' }
